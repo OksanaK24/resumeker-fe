@@ -1,6 +1,6 @@
-### Resumeker
+## Resumeker
 
-## Front-End
+### Front-End
 
 ## Mission
 
