@@ -25,4 +25,4 @@ Resuméker is a desktop first webapp built on a Postgres Database and a Node exp
 <br>
 <br>
 
-See [Backend Documentation](https://github.com/OksanaK24/resumeker-be) for details on the backend of our project.
+See [Back-End Documentation](https://github.com/OksanaK24/resumeker-be) for details on the back-end of our project.
